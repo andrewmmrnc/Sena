@@ -1,2 +1,1 @@
-# Sena
-A bot made for special channels xDDD
+# Sena bot made for https://discordapp.com/invite/JTFTvF6
